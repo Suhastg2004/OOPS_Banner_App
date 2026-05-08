@@ -8,9 +8,13 @@ This repository is currently in its initial setup stage and contains project sca
 
 ## Getting Started
 
-1. Clone the repository.
-2. Add the application source files.
-3. Run and test the app using your project-specific commands once implemented.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Suhastg2004/OOPS_Banner_App.git
+   cd OOPS_Banner_App
+   ```
+2. Add the application source code for the OOPS Banner App in this repository.
+3. Add project-specific run and test commands as the implementation is introduced.
 
 ## Contributing
 
